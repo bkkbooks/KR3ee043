@@ -27,9 +27,9 @@ assets:
   - {seq: 0, role: markers, filename: assets/KR3ee043_000.markers.yaml, hash: 'sha256:6f40527ba9d7fa2fa6914c94ee0b8e72fdb059bdc36830f48ce72843482fffeb'}
   - {seq: 1, role: markers, filename: assets/KR3ee043_001.markers.yaml, hash: 'sha256:59387b63df843504d00944d4ec953ea6f2f0f939a1d7183a4313e48e958540e9'}
   - {seq: 2, role: markers, filename: assets/KR3ee043_002.markers.yaml, hash: 'sha256:ffeda6c7a65e8c36cb387c2c10d86bc3e460f469ec9fc52ec9143910784cfc46'}
-  - {seq: 3, role: markers, filename: assets/KR3ee043_003.markers.yaml, hash: 'sha256:a3a7f9d591bb85ab0bd6ec58ac4ab187659d915a83397af6ab5a07cf8545d031'}
-  - {seq: 4, role: markers, filename: assets/KR3ee043_004.markers.yaml, hash: 'sha256:febd73f2bec9c068bfbd9cea05bc21d5cbec428b1b4970af8ab581dc63752b03'}
-  - {seq: 5, role: markers, filename: assets/KR3ee043_005.markers.yaml, hash: 'sha256:80a5b3bc53ce51b40318e6592e0f81311923724672a52cb47584e3143820ad33'}
+  - {seq: 3, role: markers, filename: assets/KR3ee043_003.markers.yaml, hash: 'sha256:ed276f24bf00438b06a34edfc6f21af5f0d237b473ad3ccb2ffdf919cd2b82e2'}
+  - {seq: 4, role: markers, filename: assets/KR3ee043_004.markers.yaml, hash: 'sha256:69c60771710c6460d243151536f931983b0f4045f874babbbb78ddd9b37fff92'}
+  - {seq: 5, role: markers, filename: assets/KR3ee043_005.markers.yaml, hash: 'sha256:6dd0400d938d6489d2b7160971fec55cf4ebe38f0da9f175bc54d26f783d2a0a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -801,7 +801,7 @@ table_of_contents:
   label: 足經諸脈
   type: section
   level: 2
-hash: sha256:9a43139a35002c9d74ee88f0faeabf607cdc591fbbade02e20492617b9930b73
+hash: sha256:ff9e9aad5196797d5598b3d8ae3e1d23606a8dbe9ad482222e894ff8806c7761
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
